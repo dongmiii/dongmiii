@@ -1,5 +1,5 @@
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👧🏻%20💻&fontAlign=40&fontAlignY=40&color=gradient)
+![egg](https://capsule-render.vercel.app/api?type=egg&height=200&text=👧🏻%20💻&fontAlign=51&fontAlignY=40&color=gradient)
 
 <div align="center">
 
@@ -35,3 +35,5 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
+
+![egg](https://capsule-render.vercel.app/api?type=egg&height=150&color=gradient&section=footer)
