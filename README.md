@@ -1,5 +1,5 @@
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=AI%20엔지니어링%20💻&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👧🏻%20💻&fontAlign=40&fontAlignY=40&color=gradient)
 
 
 ### 🦾 Skills
