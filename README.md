@@ -1,7 +1,6 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=👧🏻%20💻&fontAlign=40&fontAlignY=40&color=gradient)
 
-
 ### 🦾 Skills
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
