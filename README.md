@@ -37,9 +37,13 @@
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 배우고 싶은 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> ❕📚 
 </summary>
-  
+  ✅ SQLD <br>
+  ✅ PCSQL <br>
+  ✅ Python <br>
+  ✅ Java <br>
+  ✅ Project
 </details>
 
 
