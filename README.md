@@ -1,5 +1,5 @@
 
-![egg](https://capsule-render.vercel.app/api?type=egg&height=200&text=👧🏻%20💻&fontAlign=51&fontAlignY=40&color=gradient)
+![egg](https://capsule-render.vercel.app/api?type=egg&height=200&text=👩🏻‍🦱%20💻&fontAlign=51&fontAlignY=40&color=gradient)
 
 <div align="center">
 
