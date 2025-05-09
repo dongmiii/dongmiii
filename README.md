@@ -1,9 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=I'm%20DONGMI!&section=header&textBg=false&fontSize=60&fontAlign=50&descAlignY=51&descAlign=42&fontColor=212e3d)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongmiii%2Fhit-counter&count_bg=%23000000&title_bg=%232272E0&icon=&icon_color=%23040404&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+### 🙇 안녕하세요! 개발자 함동미입니다 👩🏻‍💻
 <br>
 
 ### 🦾 Skills
@@ -42,8 +40,7 @@
 
 <br>
 
-**📚 STUDY**  
-- SQLD <br>
+**📚 STUDY**
 - PCSQL <br>
 - Python <br>
 - Java <br>
